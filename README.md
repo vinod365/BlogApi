@@ -14,7 +14,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-This project uses MongoDB as database so Make sure to have MongoDB server running at [mongodb://localhost:27017](mongodb://localhost:27017).
+This project uses MongoDB as a database so Make sure to have the MongoDB server running at ```mongodb://localhost:27017]```
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as API routes
 
@@ -31,14 +31,14 @@ Here is the [Postman Collection](https://www.postman.com/spacecraft-physicist-82
 
 Here are some key features of this API:
 
-- Login status of the user will be varified using JWT token with expiry time
+- The login status of the user will be verified using JWT token with an expiry time
 - All passwords are salted and hashed with bcrypt 
-- User can't create multiple accounts using the same email address
-- User must have to provide 8 digit passwords.
-- Simple GUI is also created to demonstrate above points
+- The user can't create multiple accounts using the same email address
+- User must have to provide 8-digit passwords.
+- Simple GUI is also created to demonstrate the above points
 ----------------------
 
-- Blog API stricly follows the REST Architecture
+- Blog API strictly follows the REST Architecture
 - CRUD operation can be performed
 
-
+![](https://raw.githubusercontent.com/vinod365/BlogApi/main/MongoDB_demo.gif)

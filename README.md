@@ -22,7 +22,12 @@ API routes can be accessed on [http://localhost:3000/api/blog](http://localhost:
 
 Here is the [Postman Collection](https://www.postman.com/spacecraft-physicist-82771028/workspace/vinod/request/26477760-654f4ae0-8b00-46e7-959a-6348bc61d47d) of all the API route
 
+![](https://raw.githubusercontent.com/vinod365/BlogApi/main/Postman_demo.gif)
+
+
 ## Key Features
+
+![](https://raw.githubusercontent.com/vinod365/BlogApi/079e11a5c8e8d80f9b42a922e6b000043d30778d/Login_signup_demo.gif)
 
 Here are some key features of this API:
 

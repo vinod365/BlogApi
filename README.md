@@ -20,7 +20,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 API routes can be accessed on [http://localhost:3000/api/blog](http://localhost:3000/api/blog) & [http://localhost:3000/api/users](http://localhost:3000/api/users).
 
-Here is the [Postman Collection](https://www.postman.com/spacecraft-physicist-82771028/workspace/vinod/request/26477760-654f4ae0-8b00-46e7-959a-6348bc61d47d) of all the API route
+[Postman Collection](https://www.postman.com/spacecraft-physicist-82771028/workspace/vinod/request/26477760-654f4ae0-8b00-46e7-959a-6348bc61d47d) of all the API route
 
 ![](https://raw.githubusercontent.com/vinod365/BlogApi/main/Postman_demo.gif)
 
